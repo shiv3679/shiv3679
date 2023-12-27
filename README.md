@@ -113,7 +113,7 @@ I'm Shiv Shankar Singh, and I'm on a mission to decode the universe using astrop
 
 <p align="center">
   <a href="https://github.com/shiv3679">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv3679&hide=jupyter+notebook,tex&langs_count=15&theme=onedark&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv3679&hide=jupyter+notebook,tex,HTML,CSS,scss&langs_count=15&theme=onedark&layout=compact" />
   </a>
   <a href="https://github.com/shiv3679">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv3679&show_icons=true&line_height=27&count_private=true&theme=onedark&include_all_commits=true" alt="Shiv's GitHub Stats" />
